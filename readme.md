@@ -1,3 +1,3 @@
-#Project-Hour
+# Project-Hour
 
--This project is an example for studies.
+- This project is an example for studies.
